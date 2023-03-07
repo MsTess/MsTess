@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MsTess! I'm from the U.S. and I currently live in the U.K.
-- 👀 I’m interested in any sort of activity that allows for creative expression. I have been teaching language and literature for eight years.
-- 🌱 I’m currently learning HTML, Javascript, Ruby, CSS and how to grow new ligament tissue in shoulder.
-- 💞️ I’m looking to collaborate on pretty much anything that allows me to grow as a developer. I recently discovered that I absolutely love frontend development--though I have a lot to learn!
+- 👋 Hi, I’m @MsTess! I'm from the U.S. and am studying to be a Java developer.
+- 👀 I taught language and literature for ten years and am interested in any sort of activity that allows for creative expression.
+- 🌱 I’m currently learning Java.
+- 💞️ Most recently, I finished a computer science teaching certificate (CSTA Standards!) and switched to allium-free cooking.
 - 📫 How to reach me ...
         WeChat: troseburrough
         Email: roseburrought@gmail.com
