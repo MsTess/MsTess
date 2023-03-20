@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MsTess! I'm from the U.S. and am studying to be a Java developer.
+- 👋 Hi, I’m @MsTess! I'm from the U.S.
 - 👀 I taught language and literature for ten years and am interested in any sort of activity that allows for creative expression.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Java!
 - 💞️ Most recently, I finished a computer science teaching certificate (CSTA Standards!) and switched to allium-free cooking.
 - 📫 How to reach me ...
         WeChat: troseburrough
