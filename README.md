@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MsTess! I'm from the U.S.
-- 👀 I taught language and literature for ten years and am interested in any sort of activity that allows for creative expression.
-- 🌱 I’m currently learning Java!
-- 💞️ Most recently, I finished a computer science teaching certificate (CSTA Standards!) and switched to allium-free cooking.
+- 👀 I love anything linguistics or dance related!
+- 🌱 I recently pivoted to a career in full-stack development.
+- 💞️ Hit me up if you have any tasty allium-free recipes!
 - 📫 How to reach me ...
         WeChat: troseburrough
         Email: roseburrought@gmail.com
